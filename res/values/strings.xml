@@ -1915,4 +1915,8 @@
 
     <string name="keyguard_transition_animations_title">Slice transition animations</string>
     <string name="keyguard_transition_animations_summary">Show useless animations</string>
+
+    <!-- Combined signal icons in status bar -->
+    <string name="combined_status_bar_signal_icons_title">Combined signal icons</string>
+    <string name="combined_status_bar_signal_icons_summary">Show single combined icon for WiFi and mobile signal</string>
 </resources>
