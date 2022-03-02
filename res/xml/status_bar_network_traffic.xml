@@ -37,5 +37,4 @@
        android:entries="@array/network_traffic_indicator_entries"
        android:entryValues="@array/network_traffic_indicator_values"
        android:defaultValue="0" />
--->
 </PreferenceScreen>
