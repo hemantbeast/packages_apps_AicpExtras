@@ -97,7 +97,7 @@ android:persistent="false" />-->
         android:key="sensor_block"
         android:title="@string/sensor_block_title"
         android:summary="@string/sensor_block_summary"
-        android:defaultValue="false"/-->
+        android:defaultValue="false"/>
 
     <com.aicp.extras.preference.SystemSettingMasterSwitchPreference
         android:key="sensor_block"
@@ -111,7 +111,7 @@ android:persistent="false" />-->
         android:title="@string/smart_pixels_title"
         android:summary="@string/smart_pixels_summary"
         android:defaultValue="false"
-        android:fragment="com.aicp.extras.fragments.SmartPixels" />
+        android:fragment="com.aicp.extras.fragments.SmartPixels" /-->
 
     <!-- Spoofing -->
 <!--    <PreferenceCategory
