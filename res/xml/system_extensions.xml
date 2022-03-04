@@ -48,6 +48,13 @@
             android:targetClass="org.exthmui.game.ui.MainActivity" />
     </PreferenceScreen>
 
+    <PreferenceScreen
+        android:title="@string/recents_title"
+        android:key="recents"
+        android:summary="@string/recents_summary"
+        app:iconSpaceReserved="false"
+        android:fragment="com.aicp.extras.fragments.Recents" />
+
 <!--
     <com.aicp.extras.preference.SystemSettingMasterSwitchPreference
         android:key="enable_app_circle_bar"
